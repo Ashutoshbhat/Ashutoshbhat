@@ -10,3 +10,7 @@ Oh Hello👋
 -A bit of a philosopher – always seeking deeper meanings ✨<br/>
 
 
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutoshbhat&show_icons=true&theme=radical)
+
+
+
