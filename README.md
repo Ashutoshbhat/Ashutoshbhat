@@ -6,7 +6,7 @@ I strongly believe in a logical and structured approach to accomplishing tasks a
 Guided by a philosophy of realistic ambition, driven by purpose.
 
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutoshbhat&show_icons=true&theme=radical)
+
 
 
 
