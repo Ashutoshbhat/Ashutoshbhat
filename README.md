@@ -1,13 +1,9 @@
-Oh Hello👋
+Nearly 1 year of internship experience across government and private sectors including my current role as a Research Intern at IIT Jammu has given me a clear and practical understanding of the connection between data, machine learning, and its real world applications, from data preprocessing and model development to deployment and maintenance.
+
+I strongly believe in a logical and structured approach to accomplishing tasks and achieving goals. During my internship at DRDO, I even served as a Team Lead, where I gained hands on experience in coordinating teams, assigning responsibilities, ensuring accountability, and maintaining a focused and collaborative work environment.
 
 
--Ashutosh Bhat – Undergrad aspiring AI & Machine Learning engineer.<br/>
--Passionate about coding and solving complex problems 🤖<br/>
--Wrote a blog titled "Idea of God"[https://ashutoshbhat.blogspot.com/2023/09/idea-of-god.html]<br/>
--Explorer of the universe's mysteries: space, aliens, and time travel 🛸⏳<br/>
--Marvel fan who loves epic stories and superheroes 🦸‍♂️<br/>
--And yes, you’ll often catch me vibing to Michael Jackson! 🌌✨<br/>
--A bit of a philosopher – always seeking deeper meanings ✨<br/>
+Guided by a philosophy of realistic ambition, driven by purpose.
 
 
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutoshbhat&show_icons=true&theme=radical)
